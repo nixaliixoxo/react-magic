@@ -15,4 +15,9 @@ babel and parcle bts
 - react virtual dom
 - conditional rendering in react
 - useEffect Hook
+- React Router Dom, Routing in react, Outlet Componenet
+- Dynamic Routing using useParams hook
+- navigation using useNavigate hook
+- Link component, to attribute in link, state attribute in Link (using this state component we can pass data from one page to another in react
+- Shimmer Effect UI in react
 - 
