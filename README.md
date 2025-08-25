@@ -29,7 +29,8 @@ babel and parcle bts
 - Creating Custom Hooks (testing made easier) & Single Principle Responsibility in react
 - Lazy Loading or Code Splitting or Dynamic Import (code is divided into different bundlers for performance optimisation) & Suspense fallback
 - Higher Order Components
-- 
+- Controlled vs Uncontrolled Components
+- Props Drilling & Context API 
 
 
 
