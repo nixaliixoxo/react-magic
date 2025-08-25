@@ -20,4 +20,6 @@ babel and parcle bts
 - navigation using useNavigate hook
 - Link component, to attribute in link, state attribute in Link (using this state component we can pass data from one page to another in react
 - Shimmer Effect UI in react
-- 
+- Outlet component's context attribute and useOutletContext hook
+- createContext and context theme provider and useContextv hook
+- Class based component
