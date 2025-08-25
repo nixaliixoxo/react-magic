@@ -21,5 +21,10 @@ babel and parcle bts
 - Link component, to attribute in link, state attribute in Link (using this state component we can pass data from one page to another in react
 - Shimmer Effect UI in react
 - Outlet component's context attribute and useOutletContext hook
-- createContext and context theme provider and useContextv hook
-- Class based component
+- createContext and context theme provider and useContextv hook used to avoid prop drilling and state lifting 
+- Class based component (extends react componenet, has its own cnstructor and render method, super(props)
+- React Life Cycle and its methods - componentDidMount, componentDidUpdate, componentWillUnmount
+- Clean up and component unmounting
+- Diff bw useEffect and componentDidUpdate
+- Creating Custom Hooks & Single Princi[le Responsibility in react
+- 
