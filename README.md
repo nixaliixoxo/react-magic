@@ -26,5 +26,14 @@ babel and parcle bts
 - React Life Cycle and its methods - componentDidMount, componentDidUpdate, componentWillUnmount
 - Clean up and component unmounting
 - Diff bw useEffect and componentDidUpdate
-- Creating Custom Hooks & Single Princi[le Responsibility in react
+- Creating Custom Hooks (testing made easier) & Single Principle Responsibility in react
+- Lazy Loading or Code Splitting or Dynamic Import (code is divided into different bundlers for performance optimisation) & Suspense fallback
+- Higher Order Components
 - 
+
+
+
+
+
+
+
